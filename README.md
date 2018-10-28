@@ -196,8 +196,13 @@ this is subtitle
 --
 
 *강조관련*
+
 _강조관련_
+
 **강조관련**
+
 __강조관련__
+
 ++underline++
+
 ~~cancelline~~
