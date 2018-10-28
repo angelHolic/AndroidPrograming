@@ -195,14 +195,12 @@ this is subtitle
 강조
 --
 
-*강조관련*
+*This text will be italic*
 
-_강조관련_
+_This will also be italic_
 
-**강조관련**
+**This text will be bold**
 
-__강조관련__
+__This will also be bold__
 
-++underline++
-
-~~cancelline~~
+_You **can** combine them_
