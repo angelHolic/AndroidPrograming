@@ -92,13 +92,38 @@ grow, mark and tweak your common history
    
    tag        Create, list, delete or verify a tag object signed with GPG
    
+   
+   history를 표시, 수정들을 하는 명령어
+   
+   branch: 하위목록을 생성, 삭제, 목록을 생성시키는 명령어
+   
+   checkout: 하위목록의 위치를 변화시키거나 변화를 저장시키는 명령어
+   
+   commit: 저장소의 변화를 저장
+   
+   diff: 다른 하위목록들과의 비교를 위한 명령어
+   
+   merge: 2개 이상의 이력을 하나로 합치는 명령어
+   
+   rebase: 다른 베이스에 변경된 사항들을 다시 적용하는 
+   
+   tag: 태그를 만들고 목록화하고 지우는 명령어
 
 collaborate (see also: git help workflows)
 ------------------------------------------
-   fetch      Download objects and refs from another repository
-   pull       Fetch from and integrate with another repository or a local branch
-   push       Update remote refs along with associated objects
 
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
+   fetch      Download objects and refs from another repository
+   
+   pull       Fetch from and integrate with another repository or a local branch
+   
+   push       Update remote refs along with associated objects
+   
+   협업에 관련된 명령어
+   
+   fetch: 다른 저장소로 부터 객체와 참조같은 것을 다운로드하는 명령어
+   
+   pull: 다른 저장소나 로컬 branch를 통합하고 fetch하는 명렁어
+   
+   push: 객체와 관련된 다른 참조를 업데이트 하는 명령어
+   
+
