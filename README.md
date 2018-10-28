@@ -208,4 +208,5 @@ _You **can** combine them_
 이미지
 ---
 
-![텍스트](https://www.google.com/imgres?imgurl=https://t1.daumcdn.net/cfile/tistory/2250194B5688CD3C31&imgrefurl=http://kkgordon-project.tistory.com/3&h=358&w=740&tbnid=dHehWu4y1YrvlM:&q=%EA%B5%AC%EA%B8%80&tbnh=72&tbnw=151&usg=AI4_-kQVf0SdaohA6kBwD3xX-pmftzFs_Q&vet=12ahUKEwjd48zNjqneAhWTUd4KHfyWD1sQ_B0wEHoECAoQFA..i&docid=Sy2TyDf5d9mZxM&itg=1&sa=X&ved=2ahUKEwjd48zNjqneAhWTUd4KHfyWD1sQ_B0wEHoECAoQFA)
+![그림](이미지링크)
+![Alt text](/path/to/img.jpg)
