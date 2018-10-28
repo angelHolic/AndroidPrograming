@@ -12,8 +12,6 @@ usage
    ###### <command> [<args>]
    ###### 기본적인 사용방법: git --version
 
-
-
 start a working area (see also: git help tutorial)
    clone      Clone a repository into a new directory
    init       Create an empty Git repository or reinitialize an existing one
