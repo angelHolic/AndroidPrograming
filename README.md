@@ -18,8 +18,15 @@ example: git --version
   
 
 start a working area (see also: git help tutorial)
+--------------------------------------------------
    clone      Clone a repository into a new directory
    init       Create an empty Git repository or reinitialize an existing one
+   
+   작업공간을 만드는 명령어이다.
+   
+   clone: 새로운 directory에 저장소를 복사하는 작업
+   
+   init: 빈 저장소를 생성하거나 기존에 존재하는 저장소를 초기화하는 
 
 work on the current change (see also: git help everyday)
    add        Add file contents to the index
