@@ -14,7 +14,7 @@ git [--version] [--help] [-C <path>] [-c <name>=<value>]
  
 [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
 
-example: git --version
+예시: git version
   
 
 start a working area (see also: git help tutorial)
@@ -62,6 +62,18 @@ examine the history and state (see also: git help revisions)
    log        Show commit logs
    show       Show various types of objects
    status     Show the working tree status
+   
+   이전에 했던것들과 현재상태를 확인하는 명령어
+   
+   bisect: 특정버그를 어느위치에서 시작이 되었는지 확인이 가능한 명령어
+   
+   grep: 특정패턴에 해당하는 라인의 수를 출력한다.
+   
+   log: 변경된 기록들을 보여주는 명령어
+   
+   show: 객체의 다양한 형태를 출력한다.
+   
+   status: 작업의 하위상태를 보여주
 
 grow, mark and tweak your common history
    branch     List, create, or delete branches
