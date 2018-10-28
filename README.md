@@ -57,6 +57,7 @@ work on the current change (see also: git help everyday)
    
 
 examine the history and state (see also: git help revisions)
+--
    bisect     Use binary search to find the commit that introduced a bug
    grep       Print lines matching a pattern
    log        Show commit logs
