@@ -5,11 +5,12 @@ github 명령어 정리
 
 usage 
 -----
-git [--version] [--help] [-C <path>] [-c <name>=<value>]
-[--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-[-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-[--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-<command> [<args>]
+   git [--version] [--help] [-C <path>] [-c <name>=<value>]
+   [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+   [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+   [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+   <command> [<args>]
+   기본적인 사용방법: git --version
 
 
 
