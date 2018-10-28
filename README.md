@@ -189,5 +189,5 @@ this is subtitle
  링크
  --
  
- http://github.com - automatic!
+ http://github.com
 [GitHub](http://github.com)
