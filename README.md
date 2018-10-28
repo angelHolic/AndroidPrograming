@@ -172,6 +172,7 @@ this is subtitle
 3. 세번째
 
 순서에 숫자가 아닌 문양을 표시할 경우
+-----------------------------------
 
 * 빨강
   * 녹색
@@ -184,3 +185,9 @@ this is subtitle
 - 빨강
   - 녹색
     - 파랑
+    
+ 링크
+ --
+ 
+ http://github.com - automatic!
+[GitHub](http://github.com)
