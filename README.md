@@ -10,9 +10,7 @@ usage
    ###### [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
    ###### [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
    ###### [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-   ###### <command> [<args>]
-   ###### example: git --version
-
+  
 
 start a working area (see also: git help tutorial)
    clone      Clone a repository into a new directory
