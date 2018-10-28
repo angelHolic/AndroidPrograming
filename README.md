@@ -20,6 +20,7 @@ example: git --version
 start a working area (see also: git help tutorial)
 --------------------------------------------------
    clone      Clone a repository into a new directory
+   
    init       Create an empty Git repository or reinitialize an existing one
    
    작업공간을 만드는 명령어이다.
@@ -28,11 +29,32 @@ start a working area (see also: git help tutorial)
    
    init: 빈 저장소를 생성하거나 기존에 존재하는 저장소를 초기화하는 
 
+
 work on the current change (see also: git help everyday)
+--------------------------------------------------------
+
    add        Add file contents to the index
+   
+   
    mv         Move or rename a file, a directory, or a symlink
+   
+   
    reset      Reset current HEAD to the specified state
+   
+   
    rm         Remove files from the working tree and from the index
+   
+   현재 바뀐것을 적용하는 명령어이다.
+   
+   add: 파일을 저장하는 명령어이다.
+   
+   mv: 링크, 디렉토리. 파일의 이름을 변경하거나 이동시키는 명령어.
+   
+   reset: 특정상태를 다시 원래상태로 초기화 시키는 명령어
+   
+   rm : 파일을 삭제하는 
+   
+   
 
 examine the history and state (see also: git help revisions)
    bisect     Use binary search to find the commit that introduced a bug
