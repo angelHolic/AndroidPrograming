@@ -189,4 +189,4 @@ this is subtitle
  링크
  --
  
-[GitHub](http://github.com)
+[네이버](http://naver.com)
