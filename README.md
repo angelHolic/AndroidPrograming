@@ -6,12 +6,15 @@ github 명령어 정리
 usage 
 -----
 
-   ###### git [--version] [--help] [-C <path>] [-c <name>=<value>]
-   ###### [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-   ###### [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-   ###### [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-   ###### <command> [<args>]
-   ###### example: git --version
+git [--version] [--help] [-C <path>] [-c <name>=<value>]
+   
+[--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+   
+[-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+ 
+[--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+
+example: git --version
   
 
 start a working area (see also: git help tutorial)
