@@ -189,5 +189,4 @@ this is subtitle
  링크
  --
  
- http://github.com
 [GitHub](http://github.com)
